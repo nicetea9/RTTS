@@ -20,3 +20,5 @@ Real-Time Transcription Summarizer (RTTS) / приложение для сокр
 Егорова Софья,
 Чичинов Егор,
 Кутлиев Денис
+
+# Ссылка на [ClearML](https://app.clear.ml/projects/301eaa1271a24e378b9ae8b3cde3919f/experiments/8e979876278d4392bd4427cc7f188c61/output/execution)
